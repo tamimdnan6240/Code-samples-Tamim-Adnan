@@ -14,4 +14,9 @@ The final dataset combined **pavement, traffic, climate, and socioeconomic featu
 ### Two-step Clustering Model
 Developed a **two-step clustering framework** combining K-Means and Hierarchical Agglomerative Clustering to efficiently analyze a large-scale dataset. Initially, K-Means was applied to generate 10 pre-clusters, followed by hierarchical clustering to identify the final cluster groups based on similarity. Evaluated clustering performance using the **Elbow Method, Silhouette Score, and Davies–Bouldin Index** to determine the optimal cluster structure while balancing clustering quality and computational efficiency. 
 
+<img width="1654" height="951" alt="Two-Step Clustering Workflow" src="https://github.com/user-attachments/assets/54846e96-c833-46ff-9d8a-9f0605e30db1" />
+
+
+
+
 
